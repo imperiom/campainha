@@ -1,12 +1,12 @@
-package com.grupo.campainha;
+package com.grupo.campainha.hello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CampainhaApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CampainhaApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
